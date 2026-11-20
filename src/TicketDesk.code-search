@@ -1,0 +1,17 @@
+# Query: TicketDesk
+# ContextLines: 1
+
+3 results - 1 file
+
+src\App.jsx:
+  110        </div>
+  111:       <span>TicketSystem</span>
+  112      </div>
+
+  123        <span>
+  124:         © {new Date().getFullYear()} TicketSystem. All rights reserved.
+  125        </span>
+
+  413            <div className="login-security-note">
+  414:             Secure account access <span>•</span> TicketSystem
+  415            </div>
